@@ -46,11 +46,11 @@ what amounts to four of ten.
 
 ### SMOTEENN
 
-![screenshot of SMOTEENN accuracy] (https://github.com/dh4rt/Credit_Risk_Analysis/blob/main/images/teen_accuracy.png)
+![screenshot of SMOTEENN accuracy](https://github.com/dh4rt/Credit_Risk_Analysis/blob/main/images/teen_accuracy.png)
 
 
 
-![screenshot of SMOTEENN classification] (https://github.com/dh4rt/Credit_Risk_Analysis/blob/main/images/teen_classification.png)
+![screenshot of SMOTEENN classification](https://github.com/dh4rt/Credit_Risk_Analysis/blob/main/images/teen_classification.png)
 - Has an accuracy score of 64.8% a marginal increase on the previous algorithm.
 - The precision score follow the same pattern of low for high_risk and high for low_risk.
 - The recall scores for both categories only moved one point in either direction for both risk levels. Meaning that while
@@ -59,10 +59,10 @@ better for the high_risk category it is a touch worse for the low_risk category 
 ### SMOTE
 
 
-![screenshot of SMOTE accuracy] (https://github.com/dh4rt/Credit_Risk_Analysis/blob/main/images/smote_accuracy.png)
+![screenshot of SMOTE accuracy](https://github.com/dh4rt/Credit_Risk_Analysis/blob/main/images/smote_accuracy.png)
 
 
-![screenshot of SMOTE classification] (https://github.com/dh4rt/Credit_Risk_Analysis/blob/main/images/smote_classification.png)
+![screenshot of SMOTE classification](https://github.com/dh4rt/Credit_Risk_Analysis/blob/main/images/smote_classification.png)
 
 - Has an accuracy score of 65.8% an entire percentage point high than previous.
 - The precision scores remain so far unchanged.
@@ -72,10 +72,10 @@ but the improved accuracy score does lend some greater confidence.
 ### BalancedRandomForestClassifier
 
 
-![screenshot of brfc accuracy] (https://github.com/dh4rt/Credit_Risk_Analysis/blob/main/images/brfc_accuracy.png)
+![screenshot of brfc accuracy](https://github.com/dh4rt/Credit_Risk_Analysis/blob/main/images/brfc_accuracy.png)
 
 
-![screenshot of brfc classification] (https://github.com/dh4rt/Credit_Risk_Analysis/blob/main/images/brfc_classification.png)
+![screenshot of brfc classification](https://github.com/dh4rt/Credit_Risk_Analysis/blob/main/images/brfc_classification.png)
 
 - Has an accuracy score of 77.8% which is a huge improvement over previous.
 - The precision score improved slightly for the high_risk borrowers and remained high for the low_risk category.
@@ -85,10 +85,10 @@ approaching a realm that instills confidence.
 ### EasyEnsembleClassifier
 
 
-![screenshot of eec accuracy] (https://github.com/dh4rt/Credit_Risk_Analysis/blob/main/images/eec_accuracy.png)
+![screenshot of eec accuracy](https://github.com/dh4rt/Credit_Risk_Analysis/blob/main/images/eec_accuracy.png)
 
 
-![screenshot of eec classification] (https://github.com/dh4rt/Credit_Risk_Analysis/blob/main/images/eec_classification.png)
+![screenshot of eec classification](https://github.com/dh4rt/Credit_Risk_Analysis/blob/main/images/eec_classification.png)
 
 - The highest accuracy score of the bunch with 92.3% a score further from second place than second is to fifth.
 - The precision scores are better overall.
